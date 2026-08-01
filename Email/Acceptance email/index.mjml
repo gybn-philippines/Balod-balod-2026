@@ -1,6 +1,6 @@
 <mjml>
-  <mj-body>
-    <mj-section>
+  <mj-body background-url="https://github.com/gybn-philippines/Balod-balod-2026/blob/main/images/background.png?raw=true" width="600px">
+    <mj-section background-color="#ffffff" padding="20px" border-radius="10px">
       <mj-column>
 
         <mj-image width="100px" src="https://github.com/gybn-philippines/Balod-balod-2026/blob/main/images/logo-main.png?raw=true"></mj-image>
