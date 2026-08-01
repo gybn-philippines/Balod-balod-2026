@@ -1,50 +1,163 @@
 <mjml>
-  <mj-body background-url="https://github.com/gybn-philippines/Balod-balod-2026/blob/main/images/background.png?raw=true" width="600px">
+  <mj-body background-color="#3e5daa" width="600px">
     <mj-section background-color="#ffffff" padding="20px" border-radius="10px">
       <mj-column>
-
-        <mj-image width="100px" src="https://github.com/gybn-philippines/Balod-balod-2026/blob/main/images/logo-main.png?raw=true"></mj-image>
+        <mj-image
+          width="100px"
+          src="https://github.com/gybn-philippines/Balod-balod-2026/blob/main/images/logo-main.png?raw=true"
+        ></mj-image>
 
         <mj-divider border-color="#3e5daa"></mj-divider>
 
-        <mj-text font-size="20px" color="#3e5daa" font-family="open sans"><B>CONGRATULATIONS CAMPER!</B></mj-text>
+        <mj-text font-size="20px" color="#3e5daa" font-family="open sans"
+          ><b>CONGRATULATIONS CAMPER!</b></mj-text
+        >
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">You are selected to participate in the Balod-balod: From Ripples to Wave Baler Youth Camp 2026.</mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+          align="justify"
+          >You are selected to participate in the Balod-balod: From Ripples to
+          Wave Baler Youth Camp 2026.</mj-text
+        >
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">Thank you for sharing your story, experiences, and aspirations with us through your application. We are excited to welcome you to a diverse and dynamic community of young people who deeply care and are committed to enacting change, sustainability, and global collaboration for biodiversity, our communities and our future.</mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+          align="justify"
+          >Thank you for sharing your story, experiences, and aspirations with
+          us through your application. We are excited to welcome you to a
+          diverse and dynamic community of young people who deeply care and are
+          committed to enacting change, sustainability, and global collaboration
+          for biodiversity, our communities and our future.</mj-text
+        >
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">This camp will be our shared journey of learning, reflection, connection, and action. We look forward to creating a space where everyone can bring their own experiences, knowledge, creativity, and inquiries. Together we will learn (and unlearn) from the sessions, from one another, and from the stories of the land of Aurora. </mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+          align="justify"
+          >This camp will be our shared journey of learning, reflection,
+          connection, and action. We look forward to creating a space where
+          everyone can bring their own experiences, knowledge, creativity, and
+          inquiries. Together we will learn (and unlearn) from the sessions,
+          from one another, and from the stories of the land of Aurora.
+        </mj-text>
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">To confirm your participation and secure your place in the camp, we kindly request that you complete the confirmation form by 2026 August 05.</mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+          align="justify"
+          >To confirm your participation and secure your place in the camp, we
+          kindly request that you complete the confirmation form by 2026 August
+          05.</mj-text
+        >
 
-        <mj-button href="https://forms.gle/1241CxiAomhiToBZ9" background-color="#3e5daa" color="white" font-family="open sans">Confirm Participation</mj-button>
+        <mj-button
+          href="https://forms.gle/1241CxiAomhiToBZ9"
+          background-color="#3e5daa"
+          color="white"
+          font-family="open sans"
+          >Confirm Participation</mj-button
+        >
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">In the coming weeks, we will also support you through the following onboarding activities:</mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+          align="justify"
+          >In the coming weeks, we will also support you through the following
+          onboarding activities:</mj-text
+        >
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">1. Camp Guidebook: Your handy E-booklet containing the programme flow, rhythm, preparation reminders and other useful information.</mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+          padding-left="40px"
+          padding-right="40px"
+          align="justify"
+          >1. <b>Camp Guidebook</b>: Your handy E-booklet containing the
+          programme flow, rhythm, preparation reminders and other useful
+          information.</mj-text
+        >
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">2. Community Platform Onboarding: You will be invited to join our WhatsApp community where you will receive updates and begin connecting with your fellow participants; and</mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+          padding-left="40px"
+          padding-right="40px"
+          align="justify"
+          >2. <b>Community Platform Onboarding</b>: You will be invited to join
+          our WhatsApp community where you will receive updates and begin
+          connecting with your fellow participants; and</mj-text
+        >
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">3. Virtual Camp Orientation: We will gather online on August 15, 2026, at 10:00 am to walk through the camp journey and answer any questions you may have.</mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+          padding-left="40px"
+          padding-right="40px"
+          align="justify"
+          >3. <b>Virtual Camp Orientation</b>: We will gather online on August
+          15, 2026, at 10:00 am to walk through the camp journey and answer any
+          questions you may have.</mj-text
+        >
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">We hope you will come with curiosity, openness, and willingness to share and learn alongside others. We are truly excited to meet you and journey together- from small ripples of hope and action toward a collective wave of change. </mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+          align="justify"
+          >We hope you will come with curiosity, openness, and willingness to
+          share and learn alongside others. We are truly excited to meet you and
+          journey together- from small ripples of hope and action toward a
+          collective wave of change.
+        </mj-text>
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">Once again, congratulations and welcome to the Balod-balod community!</mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+          align="justify"
+          >Once again, congratulations and welcome to the Balod-balod
+          community!</mj-text
+        >
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">Cheers,</mj-text>
+        <mj-text font-size="15px" color="#3e5daa" font-family="open sans"
+          >Cheers,</mj-text
+        >
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans">Balod-balod: From Ripples to Wave<br>Baler Youth Camp 2026 Team</br> </mj-text>
+        <mj-text font-size="15px" color="#3e5daa" font-family="open sans"
+          >Balod-balod: From Ripples to Wave<br />Baler Youth Camp 2026
+          Team</mj-text
+        >
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans"></mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+        ></mj-text>
 
-        <mj-text font-size="15px" color="#3e5daa" font-family="open sans"></mj-text>
+        <mj-text
+          font-size="15px"
+          color="#3e5daa"
+          font-family="open sans"
+        ></mj-text>
 
-        <mj-image width="" src="https://github.com/gybn-philippines/Balod-balod-2026/blob/main/images/footer.png?raw=true"></mj-image>
-
-        <!--<mj-image width="" src="https://github.com/gybn-philippines/Balod-balod-2026/blob/main/images/gybn-hss-denr-logo.jpg?raw=true"></mj-image>-->
-
-        <!--<mj-image width="" src="https://github.com/gybn-philippines/Balod-balod-2026/blob/main/images/acb-aybp-kfw-sgp-logo.jpg?raw=true"></mj-image>-->
-
+        <mj-image
+          src="https://github.com/gybn-philippines/Balod-balod-2026/blob/main/images/footer.png?raw=true"
+          alt="full width image"
+          width="600px"
+          padding="0px"
+          border-radius="10px"
+        >
+        </mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
