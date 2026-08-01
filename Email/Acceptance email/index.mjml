@@ -61,7 +61,7 @@
           background-color="#3e5daa"
           color="white"
           font-family="open sans"
-          >Confirm Participation</mj-button
+          ><b>Confirm Participation</b></mj-button
         >
 
         <mj-text
