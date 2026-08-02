@@ -9,10 +9,14 @@
 
         <mj-divider border-color="#3e5daa"></mj-divider>
 
-        <mj-text font-size="20px" color="#3e5daa" font-family="open sans"
+        <mj-text
+          font-size="20px"
+          color="#3e5daa"
+          font-family="open sans black"
+          align="center"
           ><b>CONGRATULATIONS CAMPER!</b></mj-text
         >
-
+        <mj-divider border-color="#3e5daa"></mj-divider>
         <mj-text
           font-size="15px"
           color="#3e5daa"
@@ -61,6 +65,7 @@
           background-color="#3e5daa"
           color="white"
           font-family="open sans"
+          border-radius="25px"
           ><b>Confirm Participation</b></mj-button
         >
 
