@@ -17,14 +17,18 @@
           align="center"
           ><b>CONGRATULATIONS CAMPER!</b></mj-text
         >
+
         <mj-divider border-color="#3e5daa"></mj-divider>
+
         <mj-text
           font-size="15px"
           color="#3e5daa"
           font-family="open sans"
           align="justify"
-          >You are selected to participate in the Balod-balod: From Ripples to
-          Wave Baler Youth Camp 2026.</mj-text
+          >You are selected to participate in the
+          <b
+            >Balod-balod: From Ripples to Wave Baler Youth Camp 2026.</b
+          ></mj-text
         >
 
         <mj-text
@@ -136,7 +140,7 @@
         >
 
         <mj-text font-size="15px" color="#3e5daa" font-family="open sans"
-          >Cheers,</mj-text
+          ><br />Cheers,</mj-text
         >
 
         <mj-text font-size="15px" color="#3e5daa" font-family="open sans"
@@ -176,8 +180,10 @@
           color="#ffffff"
           font-family="open sans"
           align="center"
-          >Follow us on social media for updates and announcements.</mj-text
+          >Follow us on our social media channels for updates and
+          announcements.</mj-text
         >
+
         <mj-text
           font-size="12px"
           color="#ffffff"
@@ -192,10 +198,19 @@
             >Instagram</a
           >
           |
-          <a href="https://www.tiktok.com/gybn.ph" style="color: #ffffff"
+          <a
+            href="https://www.tiktok.com/@gybn.philippines"
+            style="color: #ffffff"
             >TikTok</a
           >
         </mj-text>
+        <mj-text
+          font-size="12px"
+          color="#ffffff"
+          font-family="open sans"
+          align="center"
+          >Global Youth Biodiversity Network Philippines | 2026</mj-text
+        >
       </mj-column>
     </mj-section>
   </mj-body>
